@@ -1,0 +1,49 @@
+#main{
+    position: absolute;
+    margin-left: 650px;
+    border: solid 5px ;
+    border-color: black;
+    width: 30%;
+    height: 300px;
+    background-color: rgb(101, 13, 224);
+    font-size: 20px;
+    color: white;
+    font-family: Arial;
+}
+
+p{
+    text-align: center;
+    padding-top: 120px;
+} 
+#img1{
+    padding-left: 30px;
+}
+#pic1{
+    position: absolute;
+    width: 10%;
+    height: 165px;
+    margin-top: 25%;
+    border: solid 5px ;
+    border-color: black;
+     
+}
+#pic2{
+    position: absolute;
+    width: 15%;
+    margin-top: 25%;
+    margin-left: 700px;
+    border: solid 5px ;
+    border-color: black;
+    
+}
+
+#pic3{
+    margin-left: 1500px;
+    position: absolute;
+    width: 15%;
+    margin-top: 25%;
+    border: solid 5px ;
+    border-color: black;
+     
+}
+
